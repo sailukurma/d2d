@@ -114,7 +114,7 @@ function MM_swapImage() { //v3.0
 						
 					</ul></div>
 			</li><li> 
-				<a href="Testimonials.html">Clinets</a> 
+				<a href="Testimonials.html">Clients</a> 
 				<div class="products"><ul>                     
                  <a href="whyit.html">Why IT?</a>
 <a href="specialties.html">Specialties</a>
